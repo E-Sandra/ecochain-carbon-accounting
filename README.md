@@ -51,7 +51,3 @@ ecochain/
     └── views/
         ├── calculated_emissions.sql
         └── product_carbon_footprint.sql
-
-
-📊 Architecture Flow
-<img width="4801" height="8192" alt="image" src="https://github.com/user-attachments/assets/f6d36cf2-f45a-4e13-9f60-ecec592e8878" />
